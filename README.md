@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vrelobosne
 - 👀 I’m interested in UFC, NFL, NBA
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Swift, web development and Python
 
 <!---
 vrelobosne/vrelobosne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
